@@ -66,6 +66,22 @@ body {
 	float: right;
 }
 
+#calendar .event {
+	clear: both;
+	display: block;
+	font-size: 13px;
+	border-radius: 4px;
+	margin-top: 40px;
+	margin-bottom: 5px;
+	color: #666666;
+	line-height: 14px;
+	background: #e4f2f2;
+	border: 1px solid #b5dbdc;
+	color: #009aaf;
+	text-decoration: none;
+}
+
+
 
 
 
