@@ -47,8 +47,13 @@ body {
 	font-size: 13px;
 }
 
+#calendar .days li {
+	height: 180px;
+}
 
-
+#calendar .days li:hover {
+	background: #eee;
+}
 
 
 
